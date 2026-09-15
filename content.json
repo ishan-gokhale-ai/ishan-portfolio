@@ -1,0 +1,182 @@
+[
+  {
+    "id": "rocking-chair",
+    "title": "Child’s rocking chair",
+    "wood": "Maple",
+    "sentence": "Pink back slats add a playful accent to this otherwise plain but comfortable chair."
+  },
+  {
+    "id": "butter-dish",
+    "title": "Butter dish",
+    "wood": "Rosewood",
+    "sentence": "A hand-carved wooden handle and maple miter splines give an everyday object its character."
+  },
+  {
+    "id": "sushi-platter",
+    "title": "Sushi platter",
+    "wood": "Walnut | Maple | Mahogany | Cherry",
+    "sentence": "A delicate floral inlay brings three contrasting woods into the walnut surface."
+  },
+  {
+    "id": "fan-holder",
+    "title": "Torii gate fan holder",
+    "wood": "Mahogany | Walnut",
+    "sentence": "A miniature torii gate becomes a stand for a folding fan."
+  },
+  {
+    "id": "redwood-burl",
+    "title": "Redwood burl platter",
+    "wood": "Redwood Burl | Mahogany",
+    "sentence": "Mahogany bowties reinforce natural splits, becoming part of the burl’s irregular landscape."
+  },
+  {
+    "id": "rosewood-box",
+    "title": "Rosewood box",
+    "wood": "Rosewood",
+    "sentence": "Carefully sequenced grain flows around mitered corners beneath a friction-fit lid."
+  },
+  {
+    "id": "dog-crate",
+    "title": "Dog crate",
+    "wood": "Maple | Mahogany",
+    "sentence": "A door that swings and slides into the side lets this cane-panelled crate live comfortably among the furniture."
+  },
+  {
+    "id": "blue-tile-tray",
+    "title": "Blue tile serving tray",
+    "wood": "Walnut",
+    "sentence": "Three blue-and-white tiles form a contrasting centerpiece within a walnut frame."
+  },
+  {
+    "id": "side-table",
+    "title": "Side table",
+    "wood": "Walnut",
+    "sentence": "Open slatted sides give this tall, narrow table a light silhouette."
+  },
+  {
+    "id": "dragonfly-tableware",
+    "title": "Dragonfly tableware",
+    "wood": "Bocote",
+    "sentence": "Expressive grain and small dragonfly details connect this collection of tableware."
+  },
+  {
+    "id": "chess-set",
+    "title": "Chessboard & pieces",
+    "wood": "Rosewood | Walnut | Maple",
+    "sentence": "Contrasting woods carry the pattern from the board into the simple geometric pieces."
+  },
+  {
+    "id": "personalized-cheese-board",
+    "title": "Personalized cheese board",
+    "wood": "Walnut | Mahogany | Padua",
+    "sentence": "Two contrasting strips and a circular inlay turn a simple paddle board into a personal piece."
+  },
+  {
+    "id": "coasters-honey-dipper",
+    "title": "Coasters & honey dipper",
+    "wood": "Walnut",
+    "sentence": "Dragonfly details and lotus-stem cutouts make a playful set of small tabletop objects."
+  },
+  {
+    "id": "garden-table",
+    "title": "Garden furniture",
+    "wood": "Cedar",
+    "sentence": "Repeated slats tie the table and chairs together in a set made for gathering outdoors."
+  },
+  {
+    "id": "step-stool",
+    "title": "Step stool",
+    "wood": "Red Oak",
+    "sentence": "An open frame and handhold keep this simple, everlasting two-step stool easy to move and use."
+  },
+  {
+    "id": "phone-charger",
+    "title": "Wireless charger",
+    "wood": "Walnut",
+    "sentence": "A MagSafe charger sits in a wooden stand with reinforced joinery and discreet cable routing."
+  },
+  {
+    "id": "cake-slice-coasters",
+    "title": "Cake slice & coasters",
+    "wood": "Padauk (handle) | Maple (coasters)",
+    "sentence": "A turned red handle and personalized maple coasters bring handmade details to the table."
+  },
+  {
+    "id": "floral-cheese-board",
+    "title": "Floral cheese board",
+    "wood": "Maple | Purpleheart | Walnut | Mahogany",
+    "sentence": "A flowering branch is composed entirely from contrasting woods inlaid into maple."
+  },
+  {
+    "id": "checkered-cutting-board",
+    "title": "Checkered cutting board",
+    "wood": "Maple | Walnut",
+    "sentence": "Small blocks of contrasting wood create a precise checker pattern across the cutting surface, composed of only end-grain pieces."
+  },
+  {
+    "id": "magnetic-cutting-board",
+    "title": "Magnetic cutting board",
+    "wood": "Maple | Mahogany | Walnut",
+    "sentence": "Another end-grain piece, this board has a magnetic edge that holds a knife securely when not in use."
+  },
+  {
+    "id": "military-serving-tray",
+    "title": "Military serving tray",
+    "wood": "Padauk",
+    "sentence": "A central insignia sits within the sweeping grain and shaped edges of the tray."
+  },
+  {
+    "id": "pikler-triangle",
+    "title": "Pikler triangle",
+    "wood": "Oak | Pine",
+    "sentence": "An open triangular frame and a rhythm of rungs create a place for climbing and play."
+  },
+  {
+    "id": "pizza-peel",
+    "title": "Pizza peel",
+    "wood": "Mahogany | Walnut",
+    "sentence": "A long handle and broad paddle bring two contrasting woods into a clean, practical form."
+  },
+  {
+    "id": "tiled-serving-tray",
+    "title": "Tiled serving tray",
+    "wood": "Walnut | Tiles in grout",
+    "sentence": "A bright mosaic of tiles brings color and pattern to one end of the walnut tray."
+  },
+  {
+    "id": "shot-glasses",
+    "title": "Shot glasses & serving paddle",
+    "wood": "Bocote | Rosewood",
+    "sentence": "Four wooden cups sit on a slender paddle, each with its own distinctive grain."
+  },
+  {
+    "id": "dragonfly-serving-tray",
+    "title": "Dragonfly serving tray",
+    "wood": "Walnut | Brass",
+    "sentence": "A small brass dragonfly punctuates the otherwise uninterrupted walnut surface."
+  },
+  {
+    "id": "brass-inlaid-trays",
+    "title": "Brass-inlaid serving trays",
+    "wood": "Walnut | Brass",
+    "sentence": "Brass dragonflies and personalized lettering give each tray a distinct identity."
+  },
+  {
+    "id": "swedish-ladder",
+    "title": "Swedish ladder",
+    "wood": "Pine",
+    "sentence": "A projecting attachment moves between rungs without tools, making room for different kinds of play."
+  },
+  {
+    "id": "desk-valet",
+    "title": "Desk valet",
+    "wood": "English Walnut",
+    "sentence": "A long recessed pocket follows the wood’s dramatic grain within its natural outline."
+  },
+  {
+    "id": "pergola",
+    "title": "Garden pergola",
+    "wood": "Redwood",
+    "sentence": "A massive redwood frame and overhead shade define an outdoor room for sitting and gathering."
+  }
+]

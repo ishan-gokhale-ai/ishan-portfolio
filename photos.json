@@ -1,0 +1,712 @@
+[
+  {
+    "number": 1,
+    "source": "01 child rocking chair.jpeg",
+    "sha256": "ab87d40de5c56449f9e1cec7280868a99bd5324fc16893b627a7d6f18cd6c9c1",
+    "width": 3024,
+    "height": 4032,
+    "variants": [
+      {
+        "path": "/assets/projects/01-640.webp",
+        "width": 640,
+        "height": 853
+      },
+      {
+        "path": "/assets/projects/01-1280.webp",
+        "width": 1280,
+        "height": 1707
+      },
+      {
+        "path": "/assets/projects/01-2000.webp",
+        "width": 2000,
+        "height": 2667
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "source": "02 butter dish.JPG",
+    "sha256": "489de59d05990eb3f5cb70433407641d43e1f866e1a64a085951c7df98309928",
+    "width": 5712,
+    "height": 4284,
+    "variants": [
+      {
+        "path": "/assets/projects/02-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "path": "/assets/projects/02-1280.webp",
+        "width": 1280,
+        "height": 960
+      },
+      {
+        "path": "/assets/projects/02-2000.webp",
+        "width": 2000,
+        "height": 1500
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "source": "03 sushi platter.JPG",
+    "sha256": "75fe40ed3fb3327f962891b3da3ddd675edfb973bba54641e318419e001f9794",
+    "width": 4032,
+    "height": 3024,
+    "variants": [
+      {
+        "path": "/assets/projects/03-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "path": "/assets/projects/03-1280.webp",
+        "width": 1280,
+        "height": 960
+      },
+      {
+        "path": "/assets/projects/03-2000.webp",
+        "width": 2000,
+        "height": 1500
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "source": "04 fan holder - tori gate.JPG",
+    "sha256": "88fa00a67f99cea241988ac146f53a3bbf63205ca7d5f2f355ebfd663208f3d8",
+    "width": 1628,
+    "height": 2171,
+    "variants": [
+      {
+        "path": "/assets/projects/04-640.webp",
+        "width": 640,
+        "height": 853
+      },
+      {
+        "path": "/assets/projects/04-1280.webp",
+        "width": 1280,
+        "height": 1707
+      },
+      {
+        "path": "/assets/projects/04-1628.webp",
+        "width": 1628,
+        "height": 2171
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "source": "05 redwood burl with bowties.JPG",
+    "sha256": "3d5b6411b83a3be5531afb6e4d912c9f2e7478e44673b29521dcd9c8e182e306",
+    "width": 5712,
+    "height": 4284,
+    "variants": [
+      {
+        "path": "/assets/projects/05-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "path": "/assets/projects/05-1280.webp",
+        "width": 1280,
+        "height": 960
+      },
+      {
+        "path": "/assets/projects/05-2000.webp",
+        "width": 2000,
+        "height": 1500
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "source": "06 rosewood box.jpeg.webp",
+    "sha256": "0773367ab0729ca589ac0495db38f967313ea86ac16f3f849e8a7edc9a02072b",
+    "width": 2500,
+    "height": 2500,
+    "variants": [
+      {
+        "path": "/assets/projects/06-640.webp",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "path": "/assets/projects/06-1280.webp",
+        "width": 1280,
+        "height": 1280
+      },
+      {
+        "path": "/assets/projects/06-2000.webp",
+        "width": 2000,
+        "height": 2000
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "source": "07 dog crate.jpeg",
+    "sha256": "b70b763b2d9414edcad3130ac5a054fefe8cb616a7d0b90dcdf760e60d311a6f",
+    "width": 2698,
+    "height": 3597,
+    "variants": [
+      {
+        "path": "/assets/projects/07-640.webp",
+        "width": 640,
+        "height": 853
+      },
+      {
+        "path": "/assets/projects/07-1280.webp",
+        "width": 1280,
+        "height": 1707
+      },
+      {
+        "path": "/assets/projects/07-2000.webp",
+        "width": 2000,
+        "height": 2666
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "source": "08 serving tray - tiled - blue.JPG",
+    "sha256": "dc36db0136a4821ad9474b36613a51ce651428da700ab96074dbf9a943ee4b0f",
+    "width": 4032,
+    "height": 3024,
+    "variants": [
+      {
+        "path": "/assets/projects/08-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "path": "/assets/projects/08-1280.webp",
+        "width": 1280,
+        "height": 960
+      },
+      {
+        "path": "/assets/projects/08-2000.webp",
+        "width": 2000,
+        "height": 1500
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "source": "09 side table.jpeg",
+    "sha256": "411dd5b14f667ea40e7863da4d3e54cff3aacf2d2d25a4005ae741c41e8388fd",
+    "width": 3024,
+    "height": 4032,
+    "variants": [
+      {
+        "path": "/assets/projects/09-640.webp",
+        "width": 640,
+        "height": 853
+      },
+      {
+        "path": "/assets/projects/09-1280.webp",
+        "width": 1280,
+        "height": 1707
+      },
+      {
+        "path": "/assets/projects/09-2000.webp",
+        "width": 2000,
+        "height": 2667
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "source": "10 tablewear - dragonfly.jpg.webp",
+    "sha256": "8c9e34c80e01a1e0ef8c2cf6483ed71c0b2ac7339d731057f61b7945315bce58",
+    "width": 1280,
+    "height": 1707,
+    "variants": [
+      {
+        "path": "/assets/projects/10-640.webp",
+        "width": 640,
+        "height": 854
+      },
+      {
+        "path": "/assets/projects/10-1280.webp",
+        "width": 1280,
+        "height": 1707
+      }
+    ]
+  },
+  {
+    "number": 11,
+    "source": "11 chess board.jpeg",
+    "sha256": "38438425ea532abebe600d1ad047c38c8d615a903c2ec70392b096156003ea6f",
+    "width": 3684,
+    "height": 2763,
+    "variants": [
+      {
+        "path": "/assets/projects/11-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "path": "/assets/projects/11-1280.webp",
+        "width": 1280,
+        "height": 960
+      },
+      {
+        "path": "/assets/projects/11-2000.webp",
+        "width": 2000,
+        "height": 1500
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "source": "12 cheese board - wood inlay - personalized.jpeg",
+    "sha256": "dc4cd0102a0dbb517d3df6fc8e24a3451a8645769adb9612768bebc667241c3a",
+    "width": 3896,
+    "height": 2922,
+    "variants": [
+      {
+        "path": "/assets/projects/12-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "path": "/assets/projects/12-1280.webp",
+        "width": 1280,
+        "height": 960
+      },
+      {
+        "path": "/assets/projects/12-2000.webp",
+        "width": 2000,
+        "height": 1500
+      }
+    ]
+  },
+  {
+    "number": 13,
+    "source": "13 coasters and honey stick.jpg.webp",
+    "sha256": "46f7d0ec37ef888824f1c4ebb6848e4f8baf37ecd4ffea435c4feecf026c5446",
+    "width": 768,
+    "height": 1024,
+    "variants": [
+      {
+        "path": "/assets/projects/13-640.webp",
+        "width": 640,
+        "height": 853
+      },
+      {
+        "path": "/assets/projects/13-768.webp",
+        "width": 768,
+        "height": 1024
+      }
+    ]
+  },
+  {
+    "number": 14,
+    "source": "14 garden furniture.jpeg",
+    "sha256": "ca5c28aae29a98a6a03f13327442319ac2e6c381ace6ef6d160b5da0ff03c52f",
+    "width": 4032,
+    "height": 3024,
+    "variants": [
+      {
+        "path": "/assets/projects/14-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "path": "/assets/projects/14-1280.webp",
+        "width": 1280,
+        "height": 960
+      },
+      {
+        "path": "/assets/projects/14-2000.webp",
+        "width": 2000,
+        "height": 1500
+      }
+    ]
+  },
+  {
+    "number": 15,
+    "source": "15 step stool.jpeg",
+    "sha256": "c0fa2a468d7f1e95a1a3584cbff941fc48176f1a929437942108716e39c5364a",
+    "width": 4032,
+    "height": 3024,
+    "variants": [
+      {
+        "path": "/assets/projects/15-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "path": "/assets/projects/15-1280.webp",
+        "width": 1280,
+        "height": 960
+      },
+      {
+        "path": "/assets/projects/15-2000.webp",
+        "width": 2000,
+        "height": 1500
+      }
+    ]
+  },
+  {
+    "number": 16,
+    "source": "16 phone charger.JPG",
+    "sha256": "4b9cd1a1e4f631e093f2cc306fe99f3eb09510e059fe268b209ac2692f72b814",
+    "width": 4284,
+    "height": 5712,
+    "variants": [
+      {
+        "path": "/assets/projects/16-640.webp",
+        "width": 640,
+        "height": 853
+      },
+      {
+        "path": "/assets/projects/16-1280.webp",
+        "width": 1280,
+        "height": 1707
+      },
+      {
+        "path": "/assets/projects/16-2000.webp",
+        "width": 2000,
+        "height": 2667
+      }
+    ]
+  },
+  {
+    "number": 17,
+    "source": "17 cake slice and coasters.JPG",
+    "sha256": "bd11f216e18448edd57c5ee477c50038f1b664304159ad29f6bbc946fc7d298f",
+    "width": 4284,
+    "height": 5712,
+    "variants": [
+      {
+        "path": "/assets/projects/17-640.webp",
+        "width": 640,
+        "height": 853
+      },
+      {
+        "path": "/assets/projects/17-1280.webp",
+        "width": 1280,
+        "height": 1707
+      },
+      {
+        "path": "/assets/projects/17-2000.webp",
+        "width": 2000,
+        "height": 2667
+      }
+    ]
+  },
+  {
+    "number": 18,
+    "source": "18 cheese board - wood inlay.JPG",
+    "sha256": "a77da91d62f9071e193edb373d9f43e3e27127802888142c24d3b360d90a9cde",
+    "width": 5616,
+    "height": 4212,
+    "variants": [
+      {
+        "path": "/assets/projects/18-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "path": "/assets/projects/18-1280.webp",
+        "width": 1280,
+        "height": 960
+      },
+      {
+        "path": "/assets/projects/18-2000.webp",
+        "width": 2000,
+        "height": 1500
+      }
+    ]
+  },
+  {
+    "number": 19,
+    "source": "19 cutting board - checkered.jpeg",
+    "sha256": "c6d8f4cf9465a4854cb560dd67d83c27a255b16b9ec9c9e2c434e0fe9727a414",
+    "width": 3024,
+    "height": 4032,
+    "variants": [
+      {
+        "path": "/assets/projects/19-640.webp",
+        "width": 640,
+        "height": 853
+      },
+      {
+        "path": "/assets/projects/19-1280.webp",
+        "width": 1280,
+        "height": 1707
+      },
+      {
+        "path": "/assets/projects/19-2000.webp",
+        "width": 2000,
+        "height": 2667
+      }
+    ]
+  },
+  {
+    "number": 20,
+    "source": "20 cutting baord - magnetic.jpeg",
+    "sha256": "d4e3e7c83dc29a28d392faf4358e0335af5e10787daa8aa77c5127688c341a77",
+    "width": 5712,
+    "height": 4284,
+    "variants": [
+      {
+        "path": "/assets/projects/20-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "path": "/assets/projects/20-1280.webp",
+        "width": 1280,
+        "height": 960
+      },
+      {
+        "path": "/assets/projects/20-2000.webp",
+        "width": 2000,
+        "height": 1500
+      }
+    ]
+  },
+  {
+    "number": 21,
+    "source": "21 serving tray - military.JPG",
+    "sha256": "a35b20051084401b23977546b8173a6f03b3aa025e6646a82d52e615a98613c2",
+    "width": 5712,
+    "height": 4284,
+    "variants": [
+      {
+        "path": "/assets/projects/21-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "path": "/assets/projects/21-1280.webp",
+        "width": 1280,
+        "height": 960
+      },
+      {
+        "path": "/assets/projects/21-2000.webp",
+        "width": 2000,
+        "height": 1500
+      }
+    ]
+  },
+  {
+    "number": 22,
+    "source": "22 pikler triangle.jpeg",
+    "sha256": "df948b69ef205c8bf7ceeca6771d5f2241b5c49cc14163d8aed5ee0087bcfecc",
+    "width": 4284,
+    "height": 5712,
+    "variants": [
+      {
+        "path": "/assets/projects/22-640.webp",
+        "width": 640,
+        "height": 853
+      },
+      {
+        "path": "/assets/projects/22-1280.webp",
+        "width": 1280,
+        "height": 1707
+      },
+      {
+        "path": "/assets/projects/22-2000.webp",
+        "width": 2000,
+        "height": 2667
+      }
+    ]
+  },
+  {
+    "number": 23,
+    "source": "23 pizza peel.jpeg",
+    "sha256": "fd57acc0493c037adaa8d47e01d56d354d1bbc98aa4271c0de32dafa1fda8e01",
+    "width": 4032,
+    "height": 3024,
+    "variants": [
+      {
+        "path": "/assets/projects/23-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "path": "/assets/projects/23-1280.webp",
+        "width": 1280,
+        "height": 960
+      },
+      {
+        "path": "/assets/projects/23-2000.webp",
+        "width": 2000,
+        "height": 1500
+      }
+    ]
+  },
+  {
+    "number": 24,
+    "source": "24 serving tray - tiled.jpeg",
+    "sha256": "a4bbf23ef91bdf39732106d2a7714b00e8707a89e0aeebfa7588f091fc082a2a",
+    "width": 5712,
+    "height": 4284,
+    "variants": [
+      {
+        "path": "/assets/projects/24-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "path": "/assets/projects/24-1280.webp",
+        "width": 1280,
+        "height": 960
+      },
+      {
+        "path": "/assets/projects/24-2000.webp",
+        "width": 2000,
+        "height": 1500
+      }
+    ]
+  },
+  {
+    "number": 25,
+    "source": "25 shot glasses.JPG",
+    "sha256": "575cde153e7e7f4478f50bc45198cb238b57724923a78aa5d2d323f208e3346f",
+    "width": 5712,
+    "height": 4284,
+    "variants": [
+      {
+        "path": "/assets/projects/25-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "path": "/assets/projects/25-1280.webp",
+        "width": 1280,
+        "height": 960
+      },
+      {
+        "path": "/assets/projects/25-2000.webp",
+        "width": 2000,
+        "height": 1500
+      }
+    ]
+  },
+  {
+    "number": 26,
+    "source": "26 serving tray - dragonfly - message.jpeg",
+    "sha256": "74158260b5d469362fe25042a12433976b09f2860bf90caeada1834bc0ea1a8a",
+    "width": 5712,
+    "height": 4284,
+    "variants": [
+      {
+        "path": "/assets/projects/26-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "path": "/assets/projects/26-1280.webp",
+        "width": 1280,
+        "height": 960
+      },
+      {
+        "path": "/assets/projects/26-2000.webp",
+        "width": 2000,
+        "height": 1500
+      }
+    ]
+  },
+  {
+    "number": 27,
+    "source": "27 serving trays - brass inlaid.JPG",
+    "sha256": "7c3a8eeff84531beb805d439deb0951018c7c0583b67fa0ea701c6fbb6d2f8fd",
+    "width": 5712,
+    "height": 4284,
+    "variants": [
+      {
+        "path": "/assets/projects/27-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "path": "/assets/projects/27-1280.webp",
+        "width": 1280,
+        "height": 960
+      },
+      {
+        "path": "/assets/projects/27-2000.webp",
+        "width": 2000,
+        "height": 1500
+      }
+    ]
+  },
+  {
+    "number": 28,
+    "source": "28 swedish ladder.jpeg",
+    "sha256": "eee00c8d11f66d916a64bf574a1c44ad510447d2be1c926bef4e30efc4f6d263",
+    "width": 3024,
+    "height": 4032,
+    "variants": [
+      {
+        "path": "/assets/projects/28-640.webp",
+        "width": 640,
+        "height": 853
+      },
+      {
+        "path": "/assets/projects/28-1280.webp",
+        "width": 1280,
+        "height": 1707
+      },
+      {
+        "path": "/assets/projects/28-2000.webp",
+        "width": 2000,
+        "height": 2667
+      }
+    ]
+  },
+  {
+    "number": 29,
+    "source": "29 desk valet.JPG",
+    "sha256": "a484670853013cbfa5925d43d036f15f8eba80bf6cf4744ce63157c48ad76e88",
+    "width": 5423,
+    "height": 4067,
+    "variants": [
+      {
+        "path": "/assets/projects/29-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "path": "/assets/projects/29-1280.webp",
+        "width": 1280,
+        "height": 960
+      },
+      {
+        "path": "/assets/projects/29-2000.webp",
+        "width": 2000,
+        "height": 1500
+      }
+    ]
+  },
+  {
+    "number": 30,
+    "source": "30 pergola.jpeg",
+    "sha256": "9d12d12adb1a157f2e0d3bc0ef843381e27bc18ed977b98768b3a035985c94a3",
+    "width": 3024,
+    "height": 4032,
+    "variants": [
+      {
+        "path": "/assets/projects/30-640.webp",
+        "width": 640,
+        "height": 853
+      },
+      {
+        "path": "/assets/projects/30-1280.webp",
+        "width": 1280,
+        "height": 1707
+      },
+      {
+        "path": "/assets/projects/30-2000.webp",
+        "width": 2000,
+        "height": 2667
+      }
+    ]
+  }
+]
